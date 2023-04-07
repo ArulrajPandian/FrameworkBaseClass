@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55903" started-at="2023-03-25T10:37:38Z" finished-at="2023-03-25T10:38:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55903" started-at="2023-03-25T10:37:38Z" finished-at="2023-03-25T10:38:34Z">
+      <class name="org.poms.ExecutionTestNg">
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String)[pri:0, instance:org.poms.ExecutionTestNg@464bee09]" name="tc01" duration-ms="22178" started-at="2023-03-25T16:07:41Z" data-provider="LoginDatas" finished-at="2023-03-25T16:08:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[raj123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234567]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String)[pri:0, instance:org.poms.ExecutionTestNg@464bee09]" name="tc01" duration-ms="11297" started-at="2023-03-25T16:08:03Z" data-provider="LoginDatas" finished-at="2023-03-25T16:08:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[raj5678@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[978836536]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String)[pri:0, instance:org.poms.ExecutionTestNg@464bee09]" name="tc01" duration-ms="19581" started-at="2023-03-25T16:08:14Z" data-provider="LoginDatas" finished-at="2023-03-25T16:08:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[deepan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+      </class> <!-- org.poms.ExecutionTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
